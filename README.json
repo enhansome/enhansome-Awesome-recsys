@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "RecSys series"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Algorithms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RecSys in tech companies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/shenweichen/DeepCTR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T18:21:47Z",
+            "owner": "shenweichen",
+            "repo": "DeepCTR",
+            "stars": 8052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/lyst/lightfm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-24T18:48:54Z",
+            "owner": "lyst",
+            "repo": "lightfm",
+            "stars": 5111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/RUCAIBox/RecBole",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-24T07:16:41Z",
+            "owner": "RUCAIBox",
+            "repo": "RecBole",
+            "stars": 4527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/benfred/implicit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T19:01:37Z",
+            "owner": "benfred",
+            "repo": "implicit",
+            "stars": 3813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/maciejkula/spotlight",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-21T23:38:02Z",
+            "owner": "maciejkula",
+            "repo": "spotlight",
+            "stars": 3044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/tensorflow/ranking/",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-18T20:31:57Z",
+            "owner": "tensorflow",
+            "repo": "ranking",
+            "stars": 2775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/metarank/metarank",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-09-24T16:56:42Z",
+            "owner": "metarank",
+            "repo": "metarank",
+            "stars": 2430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/tensorflow/recommenders",
+          "description": "quick start",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T08:57:55Z",
+            "owner": "tensorflow",
+            "repo": "recommenders",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/jfkirk/tensorrec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T21:34:54Z",
+            "owner": "jfkirk",
+            "repo": "tensorrec",
+            "stars": 1300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/linkedin/detext",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-02T22:27:06Z",
+            "owner": "linkedin",
+            "repo": "detext",
+            "stars": 1263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/PreferredAI/cornac/",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:52:11Z",
+            "owner": "PreferredAI",
+            "repo": "cornac",
+            "stars": 1051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/etlundquist/rankfm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T08:44:19Z",
+            "owner": "etlundquist",
+            "repo": "rankfm",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ShopRunner/collie_recs/",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Build a recommendation system with TensorFlow and Keras",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-03T05:39:20Z",
+            "owner": "xei",
+            "repo": "recommender-system-tutorial",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/hojinYang/spotify_recSys_challenge_2018",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-22T06:08:39Z",
+            "owner": "hojinYang",
+            "repo": "spotify_recSys_challenge_2018",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recsys_autoencoders",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-11-28T03:54:23Z",
+            "owner": "marlesson",
+            "repo": "recsys_autoencoders",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-> tfrs-movierec-serving",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-16T21:40:29Z",
+            "owner": "hojinYang",
+            "repo": "tfrs-movierec-serving",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "competition and hands-on"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/microsoft/recommenders",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:50:51Z",
+            "owner": "recommenders-team",
+            "repo": "recommenders",
+            "stars": 21852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/hongleizhang/RSPapers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-12T13:22:40Z",
+            "owner": "hongleizhang",
+            "repo": "RSPapers",
+            "stars": 6510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/wzhe06/Reco-papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T18:11:27Z",
+            "owner": "wzhe06",
+            "repo": "Reco-papers",
+            "stars": 3571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/robi56/Deep-Learning-for-Recommendation-Systems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-27T05:52:08Z",
+            "owner": "robi56",
+            "repo": "Deep-Learning-for-Recommendation-Systems",
+            "stars": 2884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T11:36:26Z",
+            "owner": "guyulongcs",
+            "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
+            "stars": 2578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/scnu-dil/awesome-RecSys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2021-12-30T08:09:14Z",
+            "owner": "fuhailin",
+            "repo": "awesome-RecSys",
+            "stars": 284
+          }
+        }
+      ],
+      "title": "Other Awesone list"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:51:23.371Z",
+    "original_repository": "creyesp/Awesome-recsys",
+    "original_repository_sha": "7f085c3f0889a7bf2bafa5fde7eeee76a1526cd4",
+    "enhanced_repository": "enhansome/enhansome-Awesome-recsys",
+    "enhanced_repository_description": null,
+    "title": "Awesome-recsys with stars"
+  }
+}
