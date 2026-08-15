@@ -34,7 +34,7 @@
             "last_commit": "2026-07-02T18:21:47Z",
             "owner": "shenweichen",
             "repo": "DeepCTR",
-            "stars": 8052
+            "stars": 8049
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2025-02-24T07:16:41Z",
             "owner": "RUCAIBox",
             "repo": "RecBole",
-            "stars": 4527
+            "stars": 4526
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-03-18T20:31:57Z",
             "owner": "tensorflow",
             "repo": "ranking",
-            "stars": 2775
+            "stars": 2774
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2026-03-12T13:22:40Z",
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6510
+            "stars": 6509
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-04-25T11:36:26Z",
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2578
+            "stars": 2581
           }
         },
         {
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:51:23.371Z",
+    "last_updated": "2026-08-15T02:38:53.692Z",
     "original_repository": "creyesp/Awesome-recsys",
     "original_repository_sha": "7f085c3f0889a7bf2bafa5fde7eeee76a1526cd4",
     "enhanced_repository": "enhansome/enhansome-Awesome-recsys",
