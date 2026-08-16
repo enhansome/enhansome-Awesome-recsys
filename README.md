@@ -276,13 +276,13 @@
 
 ### Implementations
 
-* <https://github.com/shenweichen/DeepCTR> ⭐ 8,049 | 🐛 63 | 🌐 Python | 📅 2026-07-02
+* <https://github.com/shenweichen/DeepCTR> ⭐ 8,048 | 🐛 63 | 🌐 Python | 📅 2026-07-02
 * <https://github.com/lyst/lightfm> ⭐ 5,111 | 🐛 166 | 🌐 Python | 📅 2024-07-24
-* <https://github.com/RUCAIBox/RecBole> ⭐ 4,526 | 🐛 357 | 🌐 Python | 📅 2025-02-24
-* <https://github.com/benfred/implicit> ⭐ 3,813 | 🐛 97 | 🌐 Python | 📅 2026-05-08
+* <https://github.com/RUCAIBox/RecBole> ⭐ 4,527 | 🐛 357 | 🌐 Python | 📅 2025-02-24
+* <https://github.com/benfred/implicit> ⭐ 3,814 | 🐛 97 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,044 | 🐛 73 | 🌐 Python | 📅 2022-12-21
 * <https://github.com/tensorflow/ranking/> ⚠️ Archived
-* <https://github.com/metarank/metarank> ⭐ 2,430 | 🐛 134 | 🌐 Scala | 📅 2025-09-24
+* <https://github.com/metarank/metarank> ⭐ 2,432 | 🐛 134 | 🌐 Scala | 📅 2025-09-24
 * <https://github.com/tensorflow/recommenders> ⭐ 2,026 | 🐛 280 | 🌐 Python | 📅 2026-07-08 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
 * <https://github.com/jfkirk/tensorrec> ⭐ 1,300 | 🐛 40 | 🌐 Python | 📅 2023-05-22
 * <https://github.com/linkedin/detext> ⭐ 1,263 | 🐛 8 | 🌐 Python | 📅 2023-03-02
@@ -520,11 +520,11 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,852 | 🐛 176 | 🌐 Python | 📅 2026-08-10
+* <https://github.com/microsoft/recommenders> ⭐ 21,856 | 🐛 176 | 🌐 Python | 📅 2026-08-10
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,509 | 🐛 0 | 📅 2026-03-12
-* <https://github.com/wzhe06/Reco-papers> ⭐ 3,571 | 🐛 3 | 🌐 Python | 📅 2025-10-16
+* <https://github.com/wzhe06/Reco-papers> ⭐ 3,570 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,884 | 🐛 1 | 📅 2020-02-27
-* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,581 | 🐛 0 | 🌐 Python | 📅 2026-04-25
+* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,582 | 🐛 0 | 🌐 Python | 📅 2026-04-25
 * <https://github.com/scnu-dil/awesome-RecSys> ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30
 * <https://paperswithcode.com/task/recommendation-systems?page=2>
 * [SIGIR (Special Interest Group on Information Retrieval)](https://sigir-ecom.github.io/)
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
