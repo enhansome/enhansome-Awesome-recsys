@@ -34,7 +34,7 @@
             "last_commit": "2026-07-02T18:21:47Z",
             "owner": "shenweichen",
             "repo": "DeepCTR",
-            "stars": 8047
+            "stars": 8046
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-12-21T23:38:02Z",
             "owner": "maciejkula",
             "repo": "spotlight",
-            "stars": 3044
+            "stars": 3043
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-03-18T20:31:57Z",
             "owner": "tensorflow",
             "repo": "ranking",
-            "stars": 2775
+            "stars": 2774
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2023-05-22T21:34:54Z",
             "owner": "jfkirk",
             "repo": "tensorrec",
-            "stars": 1300
+            "stars": 1299
           }
         },
         {
@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T07:50:51Z",
+            "last_commit": "2026-08-17T16:26:46Z",
             "owner": "recommenders-team",
             "repo": "recommenders",
             "stars": 21858
@@ -290,7 +290,7 @@
             "last_commit": "2026-03-12T13:22:40Z",
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6510
+            "stars": 6511
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2020-02-27T05:52:08Z",
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2884
+            "stars": 2882
           }
         },
         {
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:46:56.015Z",
+    "last_updated": "2026-08-18T02:41:51.215Z",
     "original_repository": "creyesp/Awesome-recsys",
     "original_repository_sha": "7f085c3f0889a7bf2bafa5fde7eeee76a1526cd4",
     "enhanced_repository": "enhansome/enhansome-Awesome-recsys",
