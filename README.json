@@ -48,7 +48,7 @@
             "last_commit": "2024-07-24T18:48:54Z",
             "owner": "lyst",
             "repo": "lightfm",
-            "stars": 5111
+            "stars": 5112
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-11T18:52:11Z",
             "owner": "PreferredAI",
             "repo": "cornac",
-            "stars": 1051
+            "stars": 1053
           }
         },
         {
@@ -273,10 +273,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T16:26:46Z",
+            "last_commit": "2026-08-19T02:03:47Z",
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21858
+            "stars": 21862
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2026-03-12T13:22:40Z",
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6511
+            "stars": 6513
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-04-25T11:36:26Z",
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2583
+            "stars": 2584
           }
         },
         {
@@ -354,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:41:51.215Z",
+    "last_updated": "2026-08-19T02:44:00.843Z",
     "original_repository": "creyesp/Awesome-recsys",
     "original_repository_sha": "7f085c3f0889a7bf2bafa5fde7eeee76a1526cd4",
     "enhanced_repository": "enhansome/enhansome-Awesome-recsys",
