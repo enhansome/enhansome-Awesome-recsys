@@ -1,269 +1,267 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "RecSys series"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Algorithms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "RecSys in tech companies"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/shenweichen/DeepCTR",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106080065,
+                "language": "Python",
+                "last_commit": "2026-07-02T18:21:47Z",
+                "owner": "shenweichen",
+                "repo": "DeepCTR",
+                "stars": 8047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/lyst/lightfm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39940111,
+                "language": "Python",
+                "last_commit": "2024-07-24T18:48:54Z",
+                "owner": "lyst",
+                "repo": "lightfm",
+                "stars": 5112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/RUCAIBox/RecBole",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271579390,
+                "language": "Python",
+                "last_commit": "2025-02-24T07:16:41Z",
+                "owner": "RUCAIBox",
+                "repo": "RecBole",
+                "stars": 4527
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/benfred/implicit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56417681,
+                "language": "Python",
+                "last_commit": "2026-05-08T19:01:37Z",
+                "owner": "benfred",
+                "repo": "implicit",
+                "stars": 3814
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/maciejkula/spotlight",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95379459,
+                "language": "Python",
+                "last_commit": "2022-12-21T23:38:02Z",
+                "owner": "maciejkula",
+                "repo": "spotlight",
+                "stars": 3043
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/tensorflow/ranking/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 160251929,
+                "language": "Python",
+                "last_commit": "2024-03-18T20:31:57Z",
+                "owner": "tensorflow",
+                "repo": "ranking",
+                "stars": 2774
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/metarank/metarank",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288792333,
+                "language": "Scala",
+                "last_commit": "2025-09-24T16:56:42Z",
+                "owner": "metarank",
+                "repo": "metarank",
+                "stars": 2432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/tensorflow/recommenders",
+              "description": "quick start",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275252389,
+                "language": "Python",
+                "last_commit": "2026-07-08T08:57:55Z",
+                "owner": "tensorflow",
+                "repo": "recommenders",
+                "stars": 2026
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/jfkirk/tensorrec",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83467664,
+                "language": "Python",
+                "last_commit": "2023-05-22T21:34:54Z",
+                "owner": "jfkirk",
+                "repo": "tensorrec",
+                "stars": 1299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/linkedin/detext",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234432813,
+                "language": "Python",
+                "last_commit": "2023-03-02T22:27:06Z",
+                "owner": "linkedin",
+                "repo": "detext",
+                "stars": 1263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/PreferredAI/cornac/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141242285,
+                "language": "Python",
+                "last_commit": "2026-08-11T18:52:11Z",
+                "owner": "PreferredAI",
+                "repo": "cornac",
+                "stars": 1053
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/etlundquist/rankfm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260780098,
+                "language": "Python",
+                "last_commit": "2024-08-14T08:44:19Z",
+                "owner": "etlundquist",
+                "repo": "rankfm",
+                "stars": 175
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Implementations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Build a recommendation system with TensorFlow and Keras",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308630361,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-03-03T05:39:20Z",
+                "owner": "xei",
+                "repo": "recommender-system-tutorial",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hojinYang/spotify_recSys_challenge_2018",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139003645,
+                "language": "Python",
+                "last_commit": "2021-02-22T06:08:39Z",
+                "owner": "hojinYang",
+                "repo": "spotify_recSys_challenge_2018",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "recsys_autoencoders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172388713,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-11-28T03:54:23Z",
+                "owner": "marlesson",
+                "repo": "recsys_autoencoders",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "-> tfrs-movierec-serving",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312656454,
+                "language": "Python",
+                "last_commit": "2020-11-16T21:40:29Z",
+                "owner": "hojinYang",
+                "repo": "tfrs-movierec-serving",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "competition and hands-on"
+        }
+      ],
       "title": "Code"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/shenweichen/DeepCTR",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-02T18:21:47Z",
-            "owner": "shenweichen",
-            "repo": "DeepCTR",
-            "stars": 8046
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/lyst/lightfm",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-24T18:48:54Z",
-            "owner": "lyst",
-            "repo": "lightfm",
-            "stars": 5112
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/RUCAIBox/RecBole",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-24T07:16:41Z",
-            "owner": "RUCAIBox",
-            "repo": "RecBole",
-            "stars": 4527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/benfred/implicit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-08T19:01:37Z",
-            "owner": "benfred",
-            "repo": "implicit",
-            "stars": 3814
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/maciejkula/spotlight",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-21T23:38:02Z",
-            "owner": "maciejkula",
-            "repo": "spotlight",
-            "stars": 3043
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/tensorflow/ranking/",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-03-18T20:31:57Z",
-            "owner": "tensorflow",
-            "repo": "ranking",
-            "stars": 2774
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/metarank/metarank",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2025-09-24T16:56:42Z",
-            "owner": "metarank",
-            "repo": "metarank",
-            "stars": 2432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/tensorflow/recommenders",
-          "description": "quick start",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-08T08:57:55Z",
-            "owner": "tensorflow",
-            "repo": "recommenders",
-            "stars": 2026
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/jfkirk/tensorrec",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-22T21:34:54Z",
-            "owner": "jfkirk",
-            "repo": "tensorrec",
-            "stars": 1299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/linkedin/detext",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-02T22:27:06Z",
-            "owner": "linkedin",
-            "repo": "detext",
-            "stars": 1263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/PreferredAI/cornac/",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T18:52:11Z",
-            "owner": "PreferredAI",
-            "repo": "cornac",
-            "stars": 1053
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/etlundquist/rankfm",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-14T08:44:19Z",
-            "owner": "etlundquist",
-            "repo": "rankfm",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/ShopRunner/collie_recs/",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Implementations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Build a recommendation system with TensorFlow and Keras",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-03-03T05:39:20Z",
-            "owner": "xei",
-            "repo": "recommender-system-tutorial",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/hojinYang/spotify_recSys_challenge_2018",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-22T06:08:39Z",
-            "owner": "hojinYang",
-            "repo": "spotify_recSys_challenge_2018",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "recsys_autoencoders",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2019-11-28T03:54:23Z",
-            "owner": "marlesson",
-            "repo": "recsys_autoencoders",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "-> tfrs-movierec-serving",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-16T21:40:29Z",
-            "owner": "hojinYang",
-            "repo": "tfrs-movierec-serving",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "competition and hands-on"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -272,11 +270,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149430917,
             "language": "Python",
             "last_commit": "2026-08-19T02:03:47Z",
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21862
+            "stars": 21861
           }
         },
         {
@@ -286,6 +285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119543316,
             "language": null,
             "last_commit": "2026-03-12T13:22:40Z",
             "owner": "hongleizhang",
@@ -300,6 +300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135330566,
             "language": "Python",
             "last_commit": "2025-10-16T18:11:27Z",
             "owner": "wzhe06",
@@ -314,6 +315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90620225,
             "language": null,
             "last_commit": "2020-02-27T05:52:08Z",
             "owner": "robi56",
@@ -328,6 +330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293218224,
             "language": "Python",
             "last_commit": "2026-04-25T11:36:26Z",
             "owner": "guyulongcs",
@@ -342,6 +345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193835095,
             "language": "TeX",
             "last_commit": "2021-12-30T08:09:14Z",
             "owner": "fuhailin",
@@ -354,8 +358,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:44:00.843Z",
+    "last_updated": "2026-08-19T12:12:45.447Z",
     "original_repository": "creyesp/Awesome-recsys",
+    "original_repository_id": 373507605,
     "original_repository_sha": "7f085c3f0889a7bf2bafa5fde7eeee76a1526cd4",
     "enhanced_repository": "enhansome/enhansome-Awesome-recsys",
     "enhanced_repository_description": null,
