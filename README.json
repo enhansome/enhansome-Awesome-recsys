@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-02T18:21:47Z",
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8046
+                "stars": 8047
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-02-24T07:16:41Z",
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4529
+                "stars": 4530
               }
             },
             {
@@ -275,7 +275,7 @@
             "last_commit": "2026-08-20T16:19:43Z",
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21863
+            "stars": 21866
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2020-02-27T05:52:08Z",
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2882
+            "stars": 2883
           }
         },
         {
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:49:09.590Z",
+    "last_updated": "2026-08-22T02:40:53.667Z",
     "original_repository": "creyesp/Awesome-recsys",
     "original_repository_id": 373507605,
     "original_repository_sha": "7f085c3f0889a7bf2bafa5fde7eeee76a1526cd4",
