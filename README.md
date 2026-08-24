@@ -278,7 +278,7 @@
 
 * <https://github.com/shenweichen/DeepCTR> ⭐ 8,048 | 🐛 62 | 🌐 Python | 📅 2026-07-02
 * <https://github.com/lyst/lightfm> ⭐ 5,111 | 🐛 166 | 🌐 Python | 📅 2024-07-24
-* <https://github.com/RUCAIBox/RecBole> ⭐ 4,531 | 🐛 357 | 🌐 Python | 📅 2025-02-24
+* <https://github.com/RUCAIBox/RecBole> ⭐ 4,533 | 🐛 357 | 🌐 Python | 📅 2025-02-24
 * <https://github.com/benfred/implicit> ⭐ 3,814 | 🐛 97 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,043 | 🐛 73 | 🌐 Python | 📅 2022-12-21
 * <https://github.com/tensorflow/ranking/> ⚠️ Archived
@@ -300,9 +300,9 @@
 
 ## Datasets
 
+* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,257 | 🐛 32 | 🌐 Python | 📅 2024-09-05
 * <https://www.kaggle.com/retailrocket/ecommerce-dataset>
 * <https://gist.github.com/entaroadun/1653794>
-* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,257 | 🐛 32 | 🌐 Python | 📅 2024-09-05
 * 30music / impresions / tv audience - <https://recsys.deib.polimi.it/datasets/>
 * <http://archive.ics.uci.edu/ml/datasets/KASANDR>
 * yambda <https://huggingface.co/datasets/yandex/yambda>
@@ -467,8 +467,8 @@
   * [A Constrained Optimization Approach for Calibrated Recommendations `Evaluation`](https://dl.acm.org/doi/fullHtml/10.1145/3460231.3478857)
 
 * 2022
-  * [Cross Pairwise Ranking for Unbiased Item Recommendation](https://arxiv.org/pdf/2204.12176v1.pdf)
   * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec) ⭐ 225 | 🐛 11 | 🌐 Python | 📅 2023-11-29
+  * [Cross Pairwise Ranking for Unbiased Item Recommendation](https://arxiv.org/pdf/2204.12176v1.pdf)
   * [Weighing dynamic availability and consumption for Twitch recommendations (Amazon)](https://www.amazon.science/publications/weighing-dynamic-availability-and-consumption-for-twitch-recommendations)
   * [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf)
   * [**A Brief History of Recommender Systems `Review`**](https://arxiv.org/abs/2209.01860)
@@ -520,7 +520,7 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,867 | 🐛 176 | 🌐 Python | 📅 2026-08-20
+* <https://github.com/microsoft/recommenders> ⭐ 21,867 | 🐛 177 | 🌐 Python | 📅 2026-08-24
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,512 | 🐛 0 | 📅 2026-03-12
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,570 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,884 | 🐛 1 | 📅 2020-02-27
