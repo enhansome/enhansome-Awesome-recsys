@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/shenweichen/DeepCTR",
+              "title": "shenweichen/DeepCTR",
               "description": null,
               "children": [],
               "repo_info": {
@@ -22,7 +22,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/lyst/lightfm",
+              "title": "lyst/lightfm",
               "description": null,
               "children": [],
               "repo_info": {
@@ -37,7 +37,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/RUCAIBox/RecBole",
+              "title": "RUCAIBox/RecBole",
               "description": null,
               "children": [],
               "repo_info": {
@@ -52,7 +52,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/benfred/implicit",
+              "title": "benfred/implicit",
               "description": null,
               "children": [],
               "repo_info": {
@@ -67,7 +67,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/maciejkula/spotlight",
+              "title": "maciejkula/spotlight",
               "description": null,
               "children": [],
               "repo_info": {
@@ -82,7 +82,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/tensorflow/ranking/",
+              "title": "tensorflow/ranking",
               "description": null,
               "children": [],
               "repo_info": {
@@ -97,7 +97,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/metarank/metarank",
+              "title": "metarank/metarank",
               "description": null,
               "children": [],
               "repo_info": {
@@ -112,7 +112,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/tensorflow/recommenders",
+              "title": "tensorflow/recommenders",
               "description": "quick start",
               "children": [],
               "repo_info": {
@@ -127,7 +127,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/jfkirk/tensorrec",
+              "title": "jfkirk/tensorrec",
               "description": null,
               "children": [],
               "repo_info": {
@@ -142,7 +142,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/linkedin/detext",
+              "title": "linkedin/detext",
               "description": null,
               "children": [],
               "repo_info": {
@@ -157,7 +157,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/PreferredAI/cornac/",
+              "title": "PreferredAI/cornac",
               "description": null,
               "children": [],
               "repo_info": {
@@ -172,7 +172,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/etlundquist/rankfm",
+              "title": "etlundquist/rankfm",
               "description": null,
               "children": [],
               "repo_info": {
@@ -209,7 +209,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/hojinYang/spotify_recSys_challenge_2018",
+              "title": "hojinYang/spotify_recSys_challenge_2018",
               "description": null,
               "children": [],
               "repo_info": {
@@ -265,7 +265,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/RUCAIBox/RecSysDatasets",
+          "title": "RUCAIBox/RecSysDatasets",
           "description": null,
           "children": [],
           "repo_info": {
@@ -314,7 +314,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/microsoft/recommenders",
+          "title": "recommenders-team/recommenders",
           "description": null,
           "children": [],
           "repo_info": {
@@ -329,7 +329,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hongleizhang/RSPapers",
+          "title": "hongleizhang/RSPapers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -344,7 +344,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wzhe06/Reco-papers",
+          "title": "wzhe06/Reco-papers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -359,7 +359,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/robi56/Deep-Learning-for-Recommendation-Systems",
+          "title": "robi56/Deep-Learning-for-Recommendation-Systems",
           "description": null,
           "children": [],
           "repo_info": {
@@ -374,7 +374,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
+          "title": "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
           "description": null,
           "children": [],
           "repo_info": {
@@ -384,12 +384,12 @@
             "last_commit": "2026-04-25T11:36:26Z",
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2585
+            "stars": 2586
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/scnu-dil/awesome-RecSys",
+          "title": "fuhailin/awesome-RecSys",
           "description": null,
           "children": [],
           "repo_info": {
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:44:58.217Z",
+    "last_updated": "2026-08-25T06:26:32.737Z",
     "original_repository": "creyesp/Awesome-recsys",
     "original_repository_id": 373507605,
     "original_repository_sha": "7f085c3f0889a7bf2bafa5fde7eeee76a1526cd4",

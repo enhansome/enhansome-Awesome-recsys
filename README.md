@@ -524,7 +524,7 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,511 | 🐛 0 | 📅 2026-03-12
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,570 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,884 | 🐛 1 | 📅 2020-02-27
-* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,585 | 🐛 0 | 🌐 Python | 📅 2026-04-25
+* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,586 | 🐛 0 | 🌐 Python | 📅 2026-04-25
 * <https://github.com/scnu-dil/awesome-RecSys> ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30
 * <https://paperswithcode.com/task/recommendation-systems?page=2>
 * [SIGIR (Special Interest Group on Information Retrieval)](https://sigir-ecom.github.io/)
