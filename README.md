@@ -276,13 +276,13 @@
 
 ### Implementations
 
-* <https://github.com/shenweichen/DeepCTR> ⭐ 8,048 | 🐛 62 | 🌐 Python | 📅 2026-07-02
+* <https://github.com/shenweichen/DeepCTR> ⭐ 8,049 | 🐛 62 | 🌐 Python | 📅 2026-07-02
 * <https://github.com/lyst/lightfm> ⭐ 5,111 | 🐛 166 | 🌐 Python | 📅 2024-07-24
-* <https://github.com/RUCAIBox/RecBole> ⭐ 4,533 | 🐛 357 | 🌐 Python | 📅 2025-02-24
+* <https://github.com/RUCAIBox/RecBole> ⭐ 4,537 | 🐛 357 | 🌐 Python | 📅 2025-02-24
 * <https://github.com/benfred/implicit> ⭐ 3,814 | 🐛 97 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,043 | 🐛 73 | 🌐 Python | 📅 2022-12-21
 * <https://github.com/tensorflow/ranking/> ⚠️ Archived
-* <https://github.com/metarank/metarank> ⭐ 2,432 | 🐛 134 | 🌐 Scala | 📅 2025-09-24
+* <https://github.com/metarank/metarank> ⭐ 2,433 | 🐛 101 | 🌐 Scala | 📅 2026-08-24
 * <https://github.com/tensorflow/recommenders> ⭐ 2,026 | 🐛 280 | 🌐 Python | 📅 2026-07-08 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
 * <https://github.com/jfkirk/tensorrec> ⭐ 1,299 | 🐛 40 | 🌐 Python | 📅 2023-05-22
 * <https://github.com/linkedin/detext> ⭐ 1,263 | 🐛 8 | 🌐 Python | 📅 2023-03-02
@@ -520,8 +520,8 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,867 | 🐛 177 | 🌐 Python | 📅 2026-08-24
-* <https://github.com/hongleizhang/RSPapers> ⭐ 6,512 | 🐛 0 | 📅 2026-03-12
+* <https://github.com/microsoft/recommenders> ⭐ 21,866 | 🐛 177 | 🌐 Python | 📅 2026-08-24
+* <https://github.com/hongleizhang/RSPapers> ⭐ 6,511 | 🐛 0 | 📅 2026-03-12
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,570 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,884 | 🐛 1 | 📅 2020-02-27
 * <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,585 | 🐛 0 | 🌐 Python | 📅 2026-04-25
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-02T18:21:47Z",
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8048
+                "stars": 8049
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-02-24T07:16:41Z",
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4533
+                "stars": 4537
               }
             },
             {
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 288792333,
                 "language": "Scala",
-                "last_commit": "2025-09-24T16:56:42Z",
+                "last_commit": "2026-08-24T16:23:20Z",
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2432
+                "stars": 2433
               }
             },
             {
@@ -321,10 +321,10 @@
             "archived": false,
             "id": 149430917,
             "language": "Python",
-            "last_commit": "2026-08-24T14:29:28Z",
+            "last_commit": "2026-08-24T17:53:28Z",
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21867
+            "stars": 21866
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-03-12T13:22:40Z",
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6512
+            "stars": 6511
           }
         },
         {
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:34.713Z",
+    "last_updated": "2026-08-25T02:44:58.217Z",
     "original_repository": "creyesp/Awesome-recsys",
     "original_repository_id": 373507605,
     "original_repository_sha": "7f085c3f0889a7bf2bafa5fde7eeee76a1526cd4",
