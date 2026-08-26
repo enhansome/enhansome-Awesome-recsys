@@ -278,12 +278,12 @@
 
 * <https://github.com/shenweichen/DeepCTR> ⭐ 8,049 | 🐛 62 | 🌐 Python | 📅 2026-07-02
 * <https://github.com/lyst/lightfm> ⭐ 5,111 | 🐛 166 | 🌐 Python | 📅 2024-07-24
-* <https://github.com/RUCAIBox/RecBole> ⭐ 4,537 | 🐛 357 | 🌐 Python | 📅 2025-02-24
+* <https://github.com/RUCAIBox/RecBole> ⭐ 4,539 | 🐛 358 | 🌐 Python | 📅 2025-02-24
 * <https://github.com/benfred/implicit> ⭐ 3,814 | 🐛 97 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,043 | 🐛 73 | 🌐 Python | 📅 2022-12-21
 * <https://github.com/tensorflow/ranking/> ⚠️ Archived
-* <https://github.com/metarank/metarank> ⭐ 2,433 | 🐛 101 | 🌐 Scala | 📅 2026-08-24
-* <https://github.com/tensorflow/recommenders> ⭐ 2,026 | 🐛 280 | 🌐 Python | 📅 2026-07-08 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
+* <https://github.com/metarank/metarank> ⭐ 2,434 | 🐛 98 | 🌐 Scala | 📅 2026-08-25
+* <https://github.com/tensorflow/recommenders> ⭐ 2,027 | 🐛 280 | 🌐 Python | 📅 2026-07-08 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
 * <https://github.com/jfkirk/tensorrec> ⭐ 1,299 | 🐛 40 | 🌐 Python | 📅 2023-05-22
 * <https://github.com/linkedin/detext> ⭐ 1,263 | 🐛 8 | 🌐 Python | 📅 2023-03-02
 * <https://github.com/PreferredAI/cornac/> ⭐ 1,053 | 🐛 25 | 🌐 Python | 📅 2026-08-11
@@ -292,7 +292,7 @@
 
 ### competition and hands-on
 
-* [Build a recommendation system with TensorFlow and Keras `two tower`](https://github.com/xei/recommender-system-tutorial/blob/main/recommender_system_tutorial.ipynb) ⭐ 218 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2025-03-03
+* [Build a recommendation system with TensorFlow and Keras `two tower`](https://github.com/xei/recommender-system-tutorial/blob/main/recommender_system_tutorial.ipynb) ⭐ 219 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2025-03-03
 * <https://github.com/hojinYang/spotify_recSys_challenge_2018> ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2021-02-22
 * [recsys\_autoencoders](https://github.com/marlesson/recsys_autoencoders) ⭐ 53 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-11-28
 * -> [tfrs-movierec-serving](https://github.com/hojinYang/tfrs-movierec-serving) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2020-11-16
@@ -467,7 +467,7 @@
   * [A Constrained Optimization Approach for Calibrated Recommendations `Evaluation`](https://dl.acm.org/doi/fullHtml/10.1145/3460231.3478857)
 
 * 2022
-  * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec) ⭐ 225 | 🐛 11 | 🌐 Python | 📅 2023-11-29
+  * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2023-11-29
   * [Cross Pairwise Ranking for Unbiased Item Recommendation](https://arxiv.org/pdf/2204.12176v1.pdf)
   * [Weighing dynamic availability and consumption for Twitch recommendations (Amazon)](https://www.amazon.science/publications/weighing-dynamic-availability-and-consumption-for-twitch-recommendations)
   * [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf)
@@ -520,10 +520,10 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,866 | 🐛 177 | 🌐 Python | 📅 2026-08-24
+* <https://github.com/microsoft/recommenders> ⭐ 21,865 | 🐛 176 | 🌐 Python | 📅 2026-08-25
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,511 | 🐛 0 | 📅 2026-03-12
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,570 | 🐛 3 | 🌐 Python | 📅 2025-10-16
-* <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,884 | 🐛 1 | 📅 2020-02-27
+* <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,885 | 🐛 1 | 📅 2020-02-27
 * <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,586 | 🐛 0 | 🌐 Python | 📅 2026-04-25
 * <https://github.com/scnu-dil/awesome-RecSys> ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30
 * <https://paperswithcode.com/task/recommendation-systems?page=2>
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
