@@ -18,7 +18,8 @@
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
                 "stars": 8050
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "lyst",
                 "repo": "lightfm",
                 "stars": 5111
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2025-02-24T07:16:41Z",
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4541
-              }
+                "stars": 4542
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "benfred",
                 "repo": "implicit",
                 "stars": 3815
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "maciejkula",
                 "repo": "spotlight",
                 "stars": 3043
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "tensorflow",
                 "repo": "ranking",
                 "stars": 2772
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2434
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "tensorflow",
                 "repo": "recommenders",
                 "stars": 2027
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "jfkirk",
                 "repo": "tensorrec",
                 "stars": 1299
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "linkedin",
                 "repo": "detext",
                 "stars": 1263
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -164,11 +174,12 @@
                 "archived": false,
                 "id": 141242285,
                 "language": "Python",
-                "last_commit": "2026-08-11T18:52:11Z",
+                "last_commit": "2026-08-27T18:41:49Z",
                 "owner": "PreferredAI",
                 "repo": "cornac",
                 "stars": 1053
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "etlundquist",
                 "repo": "rankfm",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             }
           ],
           "description": null,
@@ -205,7 +217,8 @@
                 "owner": "xei",
                 "repo": "recommender-system-tutorial",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "hojinYang",
                 "repo": "spotify_recSys_challenge_2018",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "marlesson",
                 "repo": "recsys_autoencoders",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "hojinYang",
                 "repo": "tfrs-movierec-serving",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             }
           ],
           "description": null,
@@ -276,7 +292,8 @@
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
             "stars": 1258
-          }
+          },
+          "first_seen": "2026-08-28T13:22:19.466Z"
         }
       ],
       "title": "Datasets"
@@ -302,7 +319,8 @@
                 "owner": "RUCAIBox",
                 "repo": "UniSRec",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T13:22:19.466Z"
             }
           ]
         }
@@ -324,8 +342,9 @@
             "last_commit": "2026-08-25T20:44:59Z",
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21865
-          }
+            "stars": 21864
+          },
+          "first_seen": "2026-08-28T13:22:19.466Z"
         },
         {
           "node_type": "item",
@@ -340,7 +359,8 @@
             "owner": "hongleizhang",
             "repo": "RSPapers",
             "stars": 6512
-          }
+          },
+          "first_seen": "2026-08-28T13:22:19.466Z"
         },
         {
           "node_type": "item",
@@ -355,7 +375,8 @@
             "owner": "wzhe06",
             "repo": "Reco-papers",
             "stars": 3568
-          }
+          },
+          "first_seen": "2026-08-28T13:22:19.466Z"
         },
         {
           "node_type": "item",
@@ -369,8 +390,9 @@
             "last_commit": "2020-02-27T05:52:08Z",
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2885
-          }
+            "stars": 2886
+          },
+          "first_seen": "2026-08-28T13:22:19.466Z"
         },
         {
           "node_type": "item",
@@ -385,7 +407,8 @@
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
             "stars": 2586
-          }
+          },
+          "first_seen": "2026-08-28T13:22:19.466Z"
         },
         {
           "node_type": "item",
@@ -400,14 +423,15 @@
             "owner": "fuhailin",
             "repo": "awesome-RecSys",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T13:22:19.466Z"
         }
       ],
       "title": "Other Awesone list"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:25.546Z",
+    "last_updated": "2026-08-28T13:22:19.466Z",
     "original_repository_info": {
       "archived": false,
       "id": 373507605,

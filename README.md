@@ -278,15 +278,15 @@
 
 * <https://github.com/shenweichen/DeepCTR> ⭐ 8,050 | 🐛 62 | 🌐 Python | 📅 2026-07-02
 * <https://github.com/lyst/lightfm> ⭐ 5,111 | 🐛 166 | 🌐 Python | 📅 2024-07-24
-* <https://github.com/RUCAIBox/RecBole> ⭐ 4,541 | 🐛 358 | 🌐 Python | 📅 2025-02-24
+* <https://github.com/RUCAIBox/RecBole> ⭐ 4,542 | 🐛 358 | 🌐 Python | 📅 2025-02-24
 * <https://github.com/benfred/implicit> ⭐ 3,815 | 🐛 97 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,043 | 🐛 73 | 🌐 Python | 📅 2022-12-21
 * <https://github.com/tensorflow/ranking/> ⚠️ Archived
-* <https://github.com/metarank/metarank> ⭐ 2,434 | 🐛 93 | 🌐 Scala | 📅 2026-08-26
+* <https://github.com/metarank/metarank> ⭐ 2,434 | 🐛 98 | 🌐 Scala | 📅 2026-08-26
 * <https://github.com/tensorflow/recommenders> ⭐ 2,027 | 🐛 280 | 🌐 Python | 📅 2026-07-08 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
 * <https://github.com/jfkirk/tensorrec> ⭐ 1,299 | 🐛 40 | 🌐 Python | 📅 2023-05-22
 * <https://github.com/linkedin/detext> ⭐ 1,263 | 🐛 8 | 🌐 Python | 📅 2023-03-02
-* <https://github.com/PreferredAI/cornac/> ⭐ 1,053 | 🐛 25 | 🌐 Python | 📅 2026-08-11
+* <https://github.com/PreferredAI/cornac/> ⭐ 1,053 | 🐛 25 | 🌐 Python | 📅 2026-08-27
 * <https://github.com/etlundquist/rankfm> ⭐ 175 | 🐛 20 | 🌐 Python | 📅 2024-08-14
 * <https://github.com/ShopRunner/collie_recs/>
 
@@ -520,10 +520,10 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,865 | 🐛 176 | 🌐 Python | 📅 2026-08-25
+* <https://github.com/microsoft/recommenders> ⭐ 21,864 | 🐛 176 | 🌐 Python | 📅 2026-08-25
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,512 | 🐛 0 | 📅 2026-03-12
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,568 | 🐛 3 | 🌐 Python | 📅 2025-10-16
-* <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,885 | 🐛 1 | 📅 2020-02-27
+* <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,886 | 🐛 1 | 📅 2020-02-27
 * <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,586 | 🐛 0 | 🌐 Python | 📅 2026-04-25
 * <https://github.com/scnu-dil/awesome-RecSys> ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30
 * <https://paperswithcode.com/task/recommendation-systems?page=2>
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
