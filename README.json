@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8050,
+                "stars": 8049,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -206,7 +206,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:47:42Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2434,
@@ -628,7 +628,7 @@
             "open_issues": 0,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6513,
+            "stars": 6514,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -686,7 +686,7 @@
             "open_issues": 1,
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2888,
+            "stars": 2889,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -713,11 +713,11 @@
             "id": 293218224,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-04-25T11:36:26Z",
+            "last_commit": "2026-08-29T10:34:03Z",
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2587,
+            "stars": 2589,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:18:34.872Z",
+    "last_updated": "2026-08-30T07:26:47.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
