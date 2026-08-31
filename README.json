@@ -209,7 +209,7 @@
                 "open_issues": 99,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2434,
+                "stars": 2433,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -521,7 +521,7 @@
             "open_issues": 32,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1258,
+            "stars": 1257,
             "topics": [
               "atomic-files",
               "dataset",
@@ -586,10 +586,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-25T20:44:59Z",
-            "open_issues": 176,
+            "open_issues": 177,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21863,
+            "stars": 21862,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 0,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6514,
+            "stars": 6513,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3567,
+            "stars": 3568,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:26:47.335Z",
+    "last_updated": "2026-08-31T07:41:10.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
