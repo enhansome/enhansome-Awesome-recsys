@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5111,
+                "stars": 5112,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -91,7 +91,7 @@
                 "open_issues": 358,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4542,
+                "stars": 4543,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -124,7 +124,7 @@
                 "open_issues": 97,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3815,
+                "stars": 3816,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -181,7 +181,7 @@
                 "open_issues": 91,
                 "owner": "tensorflow",
                 "repo": "ranking",
-                "stars": 2772,
+                "stars": 2771,
                 "topics": [
                   "deep-learning",
                   "information-retrieval",
@@ -206,7 +206,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:47:42Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2433,
@@ -244,7 +244,7 @@
                 "open_issues": 280,
                 "owner": "tensorflow",
                 "repo": "recommenders",
-                "stars": 2027,
+                "stars": 2028,
                 "topics": [
                   "recommender",
                   "recommender-system",
@@ -521,7 +521,7 @@
             "open_issues": 32,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1257,
+            "stars": 1255,
             "topics": [
               "atomic-files",
               "dataset",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-25T20:44:59Z",
-            "open_issues": 177,
+            "last_commit": "2026-08-31T15:24:59Z",
+            "open_issues": 178,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21862,
+            "stars": 21858,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -625,7 +625,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-03-12T13:22:40Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
             "stars": 6513,
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:41:10.362Z",
+    "last_updated": "2026-09-01T06:46:33.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
