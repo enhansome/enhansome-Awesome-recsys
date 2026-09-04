@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8049,
+                "stars": 8051,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -91,7 +91,7 @@
                 "open_issues": 358,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4545,
+                "stars": 4546,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -209,7 +209,7 @@
                 "open_issues": 101,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2435,
+                "stars": 2436,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -560,7 +560,7 @@
                 "open_issues": 11,
                 "owner": "RUCAIBox",
                 "repo": "UniSRec",
-                "stars": 226,
+                "stars": 227,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:22:19.466Z"
@@ -589,7 +589,7 @@
             "open_issues": 176,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21862,
+            "stars": 21867,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3568,
+            "stars": 3569,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2590,
+            "stars": 2591,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T06:29:53.565Z",
+    "last_updated": "2026-09-04T06:32:20.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",

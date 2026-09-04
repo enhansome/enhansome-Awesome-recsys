@@ -276,13 +276,13 @@
 
 ### Implementations
 
-* <https://github.com/shenweichen/DeepCTR> ⭐ 8,049 | 🐛 62 | 🌐 Python | 📅 2026-07-02
+* <https://github.com/shenweichen/DeepCTR> ⭐ 8,051 | 🐛 62 | 🌐 Python | 📅 2026-07-02
 * <https://github.com/lyst/lightfm> ⭐ 5,111 | 🐛 166 | 🌐 Python | 📅 2024-07-24
-* <https://github.com/RUCAIBox/RecBole> ⭐ 4,545 | 🐛 358 | 🌐 Python | 📅 2025-02-24
+* <https://github.com/RUCAIBox/RecBole> ⭐ 4,546 | 🐛 358 | 🌐 Python | 📅 2025-02-24
 * <https://github.com/benfred/implicit> ⭐ 3,817 | 🐛 97 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,043 | 🐛 73 | 🌐 Python | 📅 2022-12-21
 * <https://github.com/tensorflow/ranking/> ⚠️ Archived
-* <https://github.com/metarank/metarank> ⭐ 2,435 | 🐛 101 | 🌐 Scala | 📅 2026-08-28
+* <https://github.com/metarank/metarank> ⭐ 2,436 | 🐛 101 | 🌐 Scala | 📅 2026-08-28
 * <https://github.com/tensorflow/recommenders> ⭐ 2,028 | 🐛 280 | 🌐 Python | 📅 2026-07-08 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
 * <https://github.com/jfkirk/tensorrec> ⭐ 1,299 | 🐛 40 | 🌐 Python | 📅 2023-05-22
 * <https://github.com/linkedin/detext> ⭐ 1,263 | 🐛 8 | 🌐 Python | 📅 2023-03-02
@@ -467,7 +467,7 @@
   * [A Constrained Optimization Approach for Calibrated Recommendations `Evaluation`](https://dl.acm.org/doi/fullHtml/10.1145/3460231.3478857)
 
 * 2022
-  * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2023-11-29
+  * [Towards Universal Sequence Representation Learning for Recommender Systems](https://arxiv.org/abs/2206.05941)[Code](https://github.com/rucaibox/unisrec) ⭐ 227 | 🐛 11 | 🌐 Python | 📅 2023-11-29
   * [Cross Pairwise Ranking for Unbiased Item Recommendation](https://arxiv.org/pdf/2204.12176v1.pdf)
   * [Weighing dynamic availability and consumption for Twitch recommendations (Amazon)](https://www.amazon.science/publications/weighing-dynamic-availability-and-consumption-for-twitch-recommendations)
   * [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf)
@@ -520,11 +520,11 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,862 | 🐛 176 | 🌐 Python | 📅 2026-09-02
+* <https://github.com/microsoft/recommenders> ⭐ 21,867 | 🐛 176 | 🌐 Python | 📅 2026-09-02
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,514 | 🐛 1 | 📅 2026-03-12
-* <https://github.com/wzhe06/Reco-papers> ⭐ 3,568 | 🐛 3 | 🌐 Python | 📅 2025-10-16
+* <https://github.com/wzhe06/Reco-papers> ⭐ 3,569 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,890 | 🐛 1 | 📅 2020-02-27
-* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,590 | 🐛 0 | 🌐 Python | 📅 2026-08-29
+* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,591 | 🐛 0 | 🌐 Python | 📅 2026-08-29
 * <https://github.com/scnu-dil/awesome-RecSys> ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30
 * <https://paperswithcode.com/task/recommendation-systems?page=2>
 * [SIGIR (Special Interest Group on Information Retrieval)](https://sigir-ecom.github.io/)
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
