@@ -206,10 +206,10 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:47:42Z",
-                "open_issues": 101,
+                "open_issues": 104,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2436,
+                "stars": 2438,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -521,7 +521,7 @@
             "open_issues": 33,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1255,
+            "stars": 1257,
             "topics": [
               "atomic-files",
               "dataset",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T13:09:40Z",
-            "open_issues": 176,
+            "last_commit": "2026-09-04T22:27:39Z",
+            "open_issues": 180,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21867,
+            "stars": 21868,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2591,
+            "stars": 2592,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T06:32:20.328Z",
+    "last_updated": "2026-09-05T06:19:25.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
