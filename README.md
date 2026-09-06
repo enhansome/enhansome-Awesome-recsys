@@ -520,10 +520,10 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,868 | 🐛 180 | 🌐 Python | 📅 2026-09-04
-* <https://github.com/hongleizhang/RSPapers> ⭐ 6,514 | 🐛 1 | 📅 2026-03-12
+* <https://github.com/microsoft/recommenders> ⭐ 21,871 | 🐛 179 | 🌐 Python | 📅 2026-09-05
+* <https://github.com/hongleizhang/RSPapers> ⭐ 6,513 | 🐛 1 | 📅 2026-03-12
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,569 | 🐛 3 | 🌐 Python | 📅 2025-10-16
-* <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,890 | 🐛 1 | 📅 2020-02-27
+* <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,889 | 🐛 1 | 📅 2020-02-27
 * <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,592 | 🐛 0 | 🌐 Python | 📅 2026-08-29
 * <https://github.com/scnu-dil/awesome-RecSys> ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30
 * <https://paperswithcode.com/task/recommendation-systems?page=2>
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

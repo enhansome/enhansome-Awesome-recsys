@@ -181,7 +181,7 @@
                 "open_issues": 91,
                 "owner": "tensorflow",
                 "repo": "ranking",
-                "stars": 2771,
+                "stars": 2770,
                 "topics": [
                   "deep-learning",
                   "information-retrieval",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T22:27:39Z",
-            "open_issues": 180,
+            "last_commit": "2026-09-05T08:03:04Z",
+            "open_issues": 179,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21868,
+            "stars": 21871,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6514,
+            "stars": 6513,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -686,7 +686,7 @@
             "open_issues": 1,
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2890,
+            "stars": 2889,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:19:25.053Z",
+    "last_updated": "2026-09-06T06:30:49.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
