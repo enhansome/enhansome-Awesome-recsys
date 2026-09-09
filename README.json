@@ -205,8 +205,8 @@
                 "id": 288792333,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T19:30:36Z",
-                "open_issues": 93,
+                "last_commit": "2026-09-09T05:51:13Z",
+                "open_issues": 95,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2439,
@@ -589,7 +589,7 @@
             "open_issues": 179,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21878,
+            "stars": 21879,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3568,
+            "stars": 3569,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:32:34.349Z",
+    "last_updated": "2026-09-09T06:42:45.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
