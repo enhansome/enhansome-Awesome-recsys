@@ -91,7 +91,7 @@
                 "open_issues": 358,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4546,
+                "stars": 4548,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -124,7 +124,7 @@
                 "open_issues": 97,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3818,
+                "stars": 3819,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -205,8 +205,8 @@
                 "id": 288792333,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T05:51:13Z",
-                "open_issues": 95,
+                "last_commit": "2026-09-09T07:56:09Z",
+                "open_issues": 94,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2439,
@@ -327,7 +327,7 @@
                 "open_issues": 25,
                 "owner": "PreferredAI",
                 "repo": "cornac",
-                "stars": 1053,
+                "stars": 1054,
                 "topics": [
                   "collaborative-filtering",
                   "matrix-factorization",
@@ -589,7 +589,7 @@
             "open_issues": 179,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21879,
+            "stars": 21880,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6512,
+            "stars": 6513,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2593,
+            "stars": 2596,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:42:45.045Z",
+    "last_updated": "2026-09-10T06:38:49.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
