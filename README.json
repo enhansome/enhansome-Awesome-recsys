@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5110,
+                "stars": 5111,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -88,10 +88,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-02-24T07:16:41Z",
-                "open_issues": 358,
+                "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4551,
+                "stars": 4554,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -209,7 +209,7 @@
                 "open_issues": 97,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2440,
+                "stars": 2441,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -323,8 +323,8 @@
                 "id": 141242285,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T18:41:49Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-13T03:39:28Z",
+                "open_issues": 26,
                 "owner": "PreferredAI",
                 "repo": "cornac",
                 "stars": 1055,
@@ -586,7 +586,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-05T08:03:04Z",
-            "open_issues": 179,
+            "open_issues": 181,
             "owner": "recommenders-team",
             "repo": "recommenders",
             "stars": 21884,
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3569,
+            "stars": 3570,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:31:29.335Z",
+    "last_updated": "2026-09-13T06:46:55.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
