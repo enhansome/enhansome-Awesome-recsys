@@ -124,7 +124,7 @@
                 "open_issues": 97,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3819,
+                "stars": 3821,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -244,7 +244,7 @@
                 "open_issues": 280,
                 "owner": "tensorflow",
                 "repo": "recommenders",
-                "stars": 2028,
+                "stars": 2030,
                 "topics": [
                   "recommender",
                   "recommender-system",
@@ -323,8 +323,8 @@
                 "id": 141242285,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T03:39:28Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-14T01:15:37Z",
+                "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
                 "stars": 1055,
@@ -589,7 +589,7 @@
             "open_issues": 181,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21884,
+            "stars": 21886,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6513,
+            "stars": 6514,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2596,
+            "stars": 2599,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:46:55.724Z",
+    "last_updated": "2026-09-14T07:07:36.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
