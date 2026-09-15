@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4554,
+                "stars": 4555,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:03:04Z",
-            "open_issues": 181,
+            "last_commit": "2026-09-14T16:30:44Z",
+            "open_issues": 176,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21886,
+            "stars": 21891,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6514,
+            "stars": 6513,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:07:36.520Z",
+    "last_updated": "2026-09-15T06:44:48.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
