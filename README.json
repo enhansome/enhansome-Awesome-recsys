@@ -124,7 +124,7 @@
                 "open_issues": 97,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3821,
+                "stars": 3822,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -181,7 +181,7 @@
                 "open_issues": 91,
                 "owner": "tensorflow",
                 "repo": "ranking",
-                "stars": 2770,
+                "stars": 2769,
                 "topics": [
                   "deep-learning",
                   "information-retrieval",
@@ -393,7 +393,7 @@
                 "open_issues": 6,
                 "owner": "xei",
                 "repo": "recommender-system-tutorial",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "information-retrieval",
                   "keras",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T16:30:44Z",
+            "last_commit": "2026-09-15T09:46:38Z",
             "open_issues": 176,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21891,
+            "stars": 21894,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2599,
+            "stars": 2600,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:44:48.190Z",
+    "last_updated": "2026-09-16T06:47:03.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
