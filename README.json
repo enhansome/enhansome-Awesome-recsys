@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5111,
+                "stars": 5112,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4555,
+                "stars": 4559,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -209,7 +209,7 @@
                 "open_issues": 97,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2441,
+                "stars": 2442,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -244,7 +244,7 @@
                 "open_issues": 280,
                 "owner": "tensorflow",
                 "repo": "recommenders",
-                "stars": 2030,
+                "stars": 2031,
                 "topics": [
                   "recommender",
                   "recommender-system",
@@ -521,7 +521,7 @@
             "open_issues": 33,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1259,
+            "stars": 1258,
             "topics": [
               "atomic-files",
               "dataset",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T09:46:38Z",
-            "open_issues": 176,
+            "last_commit": "2026-09-17T06:34:40Z",
+            "open_issues": 178,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21894,
+            "stars": 21893,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2600,
+            "stars": 2602,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T06:47:03.929Z",
+    "last_updated": "2026-09-17T06:40:22.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
