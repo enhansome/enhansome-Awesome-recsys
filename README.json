@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8053,
+                "stars": 8052,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4562,
+                "stars": 4564,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -327,7 +327,7 @@
                 "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
-                "stars": 1054,
+                "stars": 1055,
                 "topics": [
                   "collaborative-filtering",
                   "matrix-factorization",
@@ -589,7 +589,7 @@
             "open_issues": 177,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21901,
+            "stars": 21904,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -713,11 +713,11 @@
             "id": 293218224,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-29T10:34:03Z",
+            "last_commit": "2026-09-19T09:43:00Z",
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2602,
+            "stars": 2603,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:39:29.837Z",
+    "last_updated": "2026-09-20T07:02:56.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
