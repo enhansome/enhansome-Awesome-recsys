@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4564,
+                "stars": 4567,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -521,7 +521,7 @@
             "open_issues": 33,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1260,
+            "stars": 1259,
             "topics": [
               "atomic-files",
               "dataset",
@@ -589,7 +589,7 @@
             "open_issues": 177,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21904,
+            "stars": 21907,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3570,
+            "stars": 3571,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2603,
+            "stars": 2604,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:02:56.626Z",
+    "last_updated": "2026-09-21T07:12:34.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",

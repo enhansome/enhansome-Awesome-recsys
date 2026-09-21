@@ -278,7 +278,7 @@
 
 * <https://github.com/shenweichen/DeepCTR> ⭐ 8,052 | 🐛 62 | 🌐 Python | 📅 2026-07-02
 * <https://github.com/lyst/lightfm> ⭐ 5,112 | 🐛 166 | 🌐 Python | 📅 2024-07-24
-* <https://github.com/RUCAIBox/RecBole> ⭐ 4,564 | 🐛 359 | 🌐 Python | 📅 2025-02-24
+* <https://github.com/RUCAIBox/RecBole> ⭐ 4,567 | 🐛 359 | 🌐 Python | 📅 2025-02-24
 * <https://github.com/benfred/implicit> ⭐ 3,824 | 🐛 97 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,043 | 🐛 73 | 🌐 Python | 📅 2022-12-21
 * <https://github.com/tensorflow/ranking/> ⚠️ Archived
@@ -300,7 +300,7 @@
 
 ## Datasets
 
-* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,260 | 🐛 33 | 🌐 Python | 📅 2024-09-05
+* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,259 | 🐛 33 | 🌐 Python | 📅 2024-09-05
 * <https://www.kaggle.com/retailrocket/ecommerce-dataset>
 * <https://gist.github.com/entaroadun/1653794>
 * 30music / impresions / tv audience - <https://recsys.deib.polimi.it/datasets/>
@@ -520,11 +520,11 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,904 | 🐛 177 | 🌐 Python | 📅 2026-09-19
+* <https://github.com/microsoft/recommenders> ⭐ 21,907 | 🐛 177 | 🌐 Python | 📅 2026-09-19
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,513 | 🐛 1 | 📅 2026-03-12
-* <https://github.com/wzhe06/Reco-papers> ⭐ 3,570 | 🐛 3 | 🌐 Python | 📅 2025-10-16
+* <https://github.com/wzhe06/Reco-papers> ⭐ 3,571 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,889 | 🐛 1 | 📅 2020-02-27
-* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,603 | 🐛 0 | 🌐 Python | 📅 2026-09-19
+* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,604 | 🐛 0 | 🌐 Python | 📅 2026-09-19
 * <https://github.com/scnu-dil/awesome-RecSys> ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30
 * <https://paperswithcode.com/task/recommendation-systems?page=2>
 * [SIGIR (Special Interest Group on Information Retrieval)](https://sigir-ecom.github.io/)
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
