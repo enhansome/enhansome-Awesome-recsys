@@ -521,7 +521,7 @@
             "open_issues": 33,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1259,
+            "stars": 1260,
             "topics": [
               "atomic-files",
               "dataset",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T04:50:01Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-24T04:56:28Z",
+            "open_issues": 172,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21913,
+            "stars": 21915,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T06:41:47.914Z",
+    "last_updated": "2026-09-24T06:46:09.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",

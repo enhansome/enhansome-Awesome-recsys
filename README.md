@@ -300,7 +300,7 @@
 
 ## Datasets
 
-* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,259 | 🐛 33 | 🌐 Python | 📅 2024-09-05
+* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,260 | 🐛 33 | 🌐 Python | 📅 2024-09-05
 * <https://www.kaggle.com/retailrocket/ecommerce-dataset>
 * <https://gist.github.com/entaroadun/1653794>
 * 30music / impresions / tv audience - <https://recsys.deib.polimi.it/datasets/>
@@ -520,7 +520,7 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,913 | 🐛 171 | 🌐 Python | 📅 2026-09-23
+* <https://github.com/microsoft/recommenders> ⭐ 21,915 | 🐛 172 | 🌐 Python | 📅 2026-09-24
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,513 | 🐛 1 | 📅 2026-03-12
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,571 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,890 | 🐛 1 | 📅 2020-02-27
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
