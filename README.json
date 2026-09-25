@@ -206,7 +206,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-22T21:49:41Z",
-                "open_issues": 95,
+                "open_issues": 97,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2444,
@@ -244,7 +244,7 @@
                 "open_issues": 280,
                 "owner": "tensorflow",
                 "repo": "recommenders",
-                "stars": 2032,
+                "stars": 2033,
                 "topics": [
                   "recommender",
                   "recommender-system",
@@ -327,7 +327,7 @@
                 "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
-                "stars": 1055,
+                "stars": 1056,
                 "topics": [
                   "collaborative-filtering",
                   "matrix-factorization",
@@ -521,7 +521,7 @@
             "open_issues": 33,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1260,
+            "stars": 1261,
             "topics": [
               "atomic-files",
               "dataset",
@@ -589,7 +589,7 @@
             "open_issues": 172,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21915,
+            "stars": 21917,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:46:09.438Z",
+    "last_updated": "2026-09-25T06:38:21.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",

@@ -282,11 +282,11 @@
 * <https://github.com/benfred/implicit> ⭐ 3,824 | 🐛 97 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,043 | 🐛 73 | 🌐 Python | 📅 2022-12-21
 * <https://github.com/tensorflow/ranking/> ⚠️ Archived
-* <https://github.com/metarank/metarank> ⭐ 2,444 | 🐛 95 | 🌐 Scala | 📅 2026-09-22
-* <https://github.com/tensorflow/recommenders> ⭐ 2,032 | 🐛 280 | 🌐 Python | 📅 2026-07-08 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
+* <https://github.com/metarank/metarank> ⭐ 2,444 | 🐛 97 | 🌐 Scala | 📅 2026-09-22
+* <https://github.com/tensorflow/recommenders> ⭐ 2,033 | 🐛 280 | 🌐 Python | 📅 2026-07-08 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
 * <https://github.com/jfkirk/tensorrec> ⭐ 1,299 | 🐛 40 | 🌐 Python | 📅 2023-05-22
 * <https://github.com/linkedin/detext> ⭐ 1,262 | 🐛 8 | 🌐 Python | 📅 2023-03-02
-* <https://github.com/PreferredAI/cornac/> ⭐ 1,055 | 🐛 23 | 🌐 Python | 📅 2026-09-14
+* <https://github.com/PreferredAI/cornac/> ⭐ 1,056 | 🐛 23 | 🌐 Python | 📅 2026-09-14
 * <https://github.com/etlundquist/rankfm> ⭐ 174 | 🐛 20 | 🌐 Python | 📅 2024-08-14
 * <https://github.com/ShopRunner/collie_recs/>
 
@@ -300,7 +300,7 @@
 
 ## Datasets
 
-* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,260 | 🐛 33 | 🌐 Python | 📅 2024-09-05
+* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,261 | 🐛 33 | 🌐 Python | 📅 2024-09-05
 * <https://www.kaggle.com/retailrocket/ecommerce-dataset>
 * <https://gist.github.com/entaroadun/1653794>
 * 30music / impresions / tv audience - <https://recsys.deib.polimi.it/datasets/>
@@ -520,7 +520,7 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,915 | 🐛 172 | 🌐 Python | 📅 2026-09-24
+* <https://github.com/microsoft/recommenders> ⭐ 21,917 | 🐛 172 | 🌐 Python | 📅 2026-09-24
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,513 | 🐛 1 | 📅 2026-03-12
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,571 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,890 | 🐛 1 | 📅 2020-02-27
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
