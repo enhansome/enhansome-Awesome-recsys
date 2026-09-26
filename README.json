@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4567,
+                "stars": 4569,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -205,8 +205,8 @@
                 "id": 288792333,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T21:49:41Z",
-                "open_issues": 97,
+                "last_commit": "2026-09-25T11:52:00Z",
+                "open_issues": 96,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2444,
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T04:56:28Z",
-            "open_issues": 172,
+            "last_commit": "2026-09-25T12:39:30Z",
+            "open_issues": 174,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21917,
+            "stars": 21920,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -686,7 +686,7 @@
             "open_issues": 1,
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2890,
+            "stars": 2891,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2605,
+            "stars": 2606,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:38:21.727Z",
+    "last_updated": "2026-09-26T06:38:16.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
