@@ -206,7 +206,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T11:52:00Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2444,
@@ -589,7 +589,7 @@
             "open_issues": 174,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21920,
+            "stars": 21921,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:38:16.386Z",
+    "last_updated": "2026-09-27T07:05:48.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
