@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4573,
+                "stars": 4574,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -152,7 +152,7 @@
                 "open_issues": 73,
                 "owner": "maciejkula",
                 "repo": "spotlight",
-                "stars": 3044,
+                "stars": 3045,
                 "topics": [
                   "deep-learning",
                   "learning-to-rank",
@@ -206,10 +206,10 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-27T15:53:46Z",
-                "open_issues": 96,
+                "open_issues": 98,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2444,
+                "stars": 2446,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -327,7 +327,7 @@
                 "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
-                "stars": 1056,
+                "stars": 1057,
                 "topics": [
                   "collaborative-filtering",
                   "matrix-factorization",
@@ -586,10 +586,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-28T15:48:55Z",
-            "open_issues": 175,
+            "open_issues": 178,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21925,
+            "stars": 21926,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -686,7 +686,7 @@
             "open_issues": 1,
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2892,
+            "stars": 2893,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2609,
+            "stars": 2610,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T07:29:10.923Z",
+    "last_updated": "2026-10-01T07:49:13.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
