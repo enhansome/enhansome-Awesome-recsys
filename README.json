@@ -124,7 +124,7 @@
                 "open_issues": 97,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3826,
+                "stars": 3827,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -585,8 +585,8 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:51:51Z",
-            "open_issues": 178,
+            "last_commit": "2026-10-03T06:58:48Z",
+            "open_issues": 176,
             "owner": "recommenders-team",
             "repo": "recommenders",
             "stars": 21926,
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:27:46.953Z",
+    "last_updated": "2026-10-03T07:06:39.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
