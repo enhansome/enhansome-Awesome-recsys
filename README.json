@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "shenweichen/DeepCTR",
-              "description": null,
+              "description": "shenweichen/DeepCTR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8050,
+                "stars": 8049,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "lyst/lightfm",
-              "description": null,
+              "description": "lyst/lightfm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "RUCAIBox/RecBole",
-              "description": null,
+              "description": "RUCAIBox/RecBole",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -111,7 +111,7 @@
             {
               "node_type": "item",
               "title": "benfred/implicit",
-              "description": null,
+              "description": "benfred/implicit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -139,7 +139,7 @@
             {
               "node_type": "item",
               "title": "maciejkula/spotlight",
-              "description": null,
+              "description": "maciejkula/spotlight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -168,7 +168,7 @@
             {
               "node_type": "item",
               "title": "tensorflow/ranking",
-              "description": null,
+              "description": "tensorflow/ranking",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -196,7 +196,7 @@
             {
               "node_type": "item",
               "title": "metarank/metarank",
-              "description": null,
+              "description": "metarank/metarank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -206,10 +206,10 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-27T15:53:46Z",
-                "open_issues": 98,
+                "open_issues": 101,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2448,
+                "stars": 2449,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -257,7 +257,7 @@
             {
               "node_type": "item",
               "title": "jfkirk/tensorrec",
-              "description": null,
+              "description": "jfkirk/tensorrec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -286,7 +286,7 @@
             {
               "node_type": "item",
               "title": "linkedin/detext",
-              "description": null,
+              "description": "linkedin/detext",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -314,7 +314,7 @@
             {
               "node_type": "item",
               "title": "PreferredAI/cornac",
-              "description": null,
+              "description": "PreferredAI/cornac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -344,7 +344,7 @@
             {
               "node_type": "item",
               "title": "etlundquist/rankfm",
-              "description": null,
+              "description": "etlundquist/rankfm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "Build a recommendation system with TensorFlow and Keras",
-              "description": null,
+              "description": "xei/recommender-system-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -418,7 +418,7 @@
             {
               "node_type": "item",
               "title": "hojinYang/spotify_recSys_challenge_2018",
-              "description": null,
+              "description": "hojinYang/spotify_recSys_challenge_2018",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -444,7 +444,7 @@
             {
               "node_type": "item",
               "title": "recsys_autoencoders",
-              "description": null,
+              "description": "marlesson/recsys_autoencoders",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,7 +471,7 @@
             {
               "node_type": "item",
               "title": "-> tfrs-movierec-serving",
-              "description": null,
+              "description": "hojinYang/tfrs-movierec-serving",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,7 +508,7 @@
         {
           "node_type": "item",
           "title": "RUCAIBox/RecSysDatasets",
-          "description": null,
+          "description": "RUCAIBox/RecSysDatasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -547,7 +547,7 @@
             {
               "node_type": "item",
               "title": "Towards Universal Sequence Representation Learning for Recommender Systems",
-              "description": "Code",
+              "description": "RUCAIBox/UniSRec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -576,7 +576,7 @@
         {
           "node_type": "item",
           "title": "recommenders-team/recommenders",
-          "description": null,
+          "description": "recommenders-team/recommenders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -585,7 +585,7 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T15:48:55Z",
+            "last_commit": "2026-10-02T09:51:51Z",
             "open_issues": 178,
             "owner": "recommenders-team",
             "repo": "recommenders",
@@ -615,7 +615,7 @@
         {
           "node_type": "item",
           "title": "hongleizhang/RSPapers",
-          "description": null,
+          "description": "hongleizhang/RSPapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -645,7 +645,7 @@
         {
           "node_type": "item",
           "title": "wzhe06/Reco-papers",
-          "description": null,
+          "description": "wzhe06/Reco-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3572,
+            "stars": 3573,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -673,7 +673,7 @@
         {
           "node_type": "item",
           "title": "robi56/Deep-Learning-for-Recommendation-Systems",
-          "description": null,
+          "description": "robi56/Deep-Learning-for-Recommendation-Systems",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -704,7 +704,7 @@
         {
           "node_type": "item",
           "title": "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-          "description": null,
+          "description": "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -734,7 +734,7 @@
         {
           "node_type": "item",
           "title": "fuhailin/awesome-RecSys",
-          "description": null,
+          "description": "fuhailin/awesome-RecSys",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:31:49.545Z",
+    "last_updated": "2026-10-03T04:27:46.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
