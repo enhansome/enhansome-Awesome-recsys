@@ -88,10 +88,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-02-24T07:16:41Z",
-                "open_issues": 360,
+                "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4574,
+                "stars": 4575,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -152,7 +152,7 @@
                 "open_issues": 73,
                 "owner": "maciejkula",
                 "repo": "spotlight",
-                "stars": 3045,
+                "stars": 3047,
                 "topics": [
                   "deep-learning",
                   "learning-to-rank",
@@ -586,10 +586,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-03T06:58:48Z",
-            "open_issues": 176,
+            "open_issues": 177,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21926,
+            "stars": 21928,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6511,
+            "stars": 6512,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -686,7 +686,7 @@
             "open_issues": 1,
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2893,
+            "stars": 2894,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:06:39.179Z",
+    "last_updated": "2026-10-04T07:24:28.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
