@@ -205,8 +205,8 @@
                 "id": 288792333,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T15:53:46Z",
-                "open_issues": 101,
+                "last_commit": "2026-10-04T12:01:04Z",
+                "open_issues": 97,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2449,
@@ -244,7 +244,7 @@
                 "open_issues": 280,
                 "owner": "tensorflow",
                 "repo": "recommenders",
-                "stars": 2035,
+                "stars": 2036,
                 "topics": [
                   "recommender",
                   "recommender-system",
@@ -589,7 +589,7 @@
             "open_issues": 177,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21928,
+            "stars": 21929,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2611,
+            "stars": 2613,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:24:28.438Z",
+    "last_updated": "2026-10-05T07:41:55.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
