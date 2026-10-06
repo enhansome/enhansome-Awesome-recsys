@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8049,
+                "stars": 8047,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -152,7 +152,7 @@
                 "open_issues": 73,
                 "owner": "maciejkula",
                 "repo": "spotlight",
-                "stars": 3047,
+                "stars": 3046,
                 "topics": [
                   "deep-learning",
                   "learning-to-rank",
@@ -240,11 +240,11 @@
                 "id": 275252389,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T09:14:56Z",
-                "open_issues": 280,
+                "last_commit": "2026-10-05T22:08:11Z",
+                "open_issues": 281,
                 "owner": "tensorflow",
                 "repo": "recommenders",
-                "stars": 2036,
+                "stars": 2035,
                 "topics": [
                   "recommender",
                   "recommender-system",
@@ -270,7 +270,7 @@
                 "open_issues": 40,
                 "owner": "jfkirk",
                 "repo": "tensorrec",
-                "stars": 1300,
+                "stars": 1299,
                 "topics": [
                   "framework",
                   "machine-learning",
@@ -327,7 +327,7 @@
                 "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
-                "stars": 1057,
+                "stars": 1056,
                 "topics": [
                   "collaborative-filtering",
                   "matrix-factorization",
@@ -518,10 +518,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-09-05T03:39:48Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1264,
+            "stars": 1265,
             "topics": [
               "atomic-files",
               "dataset",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T06:58:48Z",
-            "open_issues": 177,
+            "last_commit": "2026-10-06T01:38:06Z",
+            "open_issues": 176,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21929,
+            "stars": 21927,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6512,
+            "stars": 6511,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3573,
+            "stars": 3572,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2613,
+            "stars": 2612,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:41:55.137Z",
+    "last_updated": "2026-10-06T08:09:31.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
