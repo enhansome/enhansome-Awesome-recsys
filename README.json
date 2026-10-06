@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8047,
+                "stars": 8048,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4575,
+                "stars": 4576,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -152,7 +152,7 @@
                 "open_issues": 73,
                 "owner": "maciejkula",
                 "repo": "spotlight",
-                "stars": 3046,
+                "stars": 3047,
                 "topics": [
                   "deep-learning",
                   "learning-to-rank",
@@ -240,11 +240,11 @@
                 "id": 275252389,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T22:08:11Z",
-                "open_issues": 281,
+                "last_commit": "2026-10-06T08:49:37Z",
+                "open_issues": 280,
                 "owner": "tensorflow",
                 "repo": "recommenders",
-                "stars": 2035,
+                "stars": 2036,
                 "topics": [
                   "recommender",
                   "recommender-system",
@@ -270,7 +270,7 @@
                 "open_issues": 40,
                 "owner": "jfkirk",
                 "repo": "tensorrec",
-                "stars": 1299,
+                "stars": 1300,
                 "topics": [
                   "framework",
                   "machine-learning",
@@ -327,7 +327,7 @@
                 "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
-                "stars": 1056,
+                "stars": 1057,
                 "topics": [
                   "collaborative-filtering",
                   "matrix-factorization",
@@ -589,7 +589,7 @@
             "open_issues": 176,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21927,
+            "stars": 21928,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2612,
+            "stars": 2613,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:09:31.066Z",
+    "last_updated": "2026-10-06T10:45:03.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
