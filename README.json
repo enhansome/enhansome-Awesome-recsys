@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4581,
+                "stars": 4583,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -206,7 +206,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T21:30:34Z",
-                "open_issues": 109,
+                "open_issues": 111,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2449,
@@ -393,7 +393,7 @@
                 "open_issues": 6,
                 "owner": "xei",
                 "repo": "recommender-system-tutorial",
-                "stars": 220,
+                "stars": 219,
                 "topics": [
                   "information-retrieval",
                   "keras",
@@ -589,7 +589,7 @@
             "open_issues": 180,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21938,
+            "stars": 21939,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6515,
+            "stars": 6518,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3573,
+            "stars": 3574,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:45:23.478Z",
+    "last_updated": "2026-10-11T07:50:38.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
