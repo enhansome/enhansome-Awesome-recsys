@@ -17,7 +17,7 @@
                 "id": 106080065,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-02T18:21:47Z",
+                "last_commit": "2026-10-11T12:52:23Z",
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4583,
+                "stars": 4584,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -585,8 +585,8 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T06:52:18Z",
-            "open_issues": 180,
+            "last_commit": "2026-10-11T23:09:48Z",
+            "open_issues": 179,
             "owner": "recommenders-team",
             "repo": "recommenders",
             "stars": 21939,
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6518,
+            "stars": 6519,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3574,
+            "stars": 3575,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2615,
+            "stars": 2616,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:50:38.325Z",
+    "last_updated": "2026-10-12T08:01:31.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
