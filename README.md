@@ -276,8 +276,8 @@
 
 ### Implementations
 
-* <https://github.com/shenweichen/DeepCTR> ⭐ 8,049 | 🐛 62 | 🌐 Python | 📅 2026-10-11
-* <https://github.com/lyst/lightfm> ⭐ 5,114 | 🐛 166 | 🌐 Python | 📅 2024-07-24
+* <https://github.com/shenweichen/DeepCTR> ⭐ 8,050 | 🐛 62 | 🌐 Python | 📅 2026-10-11
+* <https://github.com/lyst/lightfm> ⭐ 5,115 | 🐛 166 | 🌐 Python | 📅 2024-07-24
 * <https://github.com/RUCAIBox/RecBole> ⭐ 4,584 | 🐛 359 | 🌐 Python | 📅 2025-02-24
 * <https://github.com/benfred/implicit> ⭐ 3,829 | 🐛 97 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,047 | 🐛 73 | 🌐 Python | 📅 2022-12-21
@@ -520,9 +520,9 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,939 | 🐛 179 | 🌐 Python | 📅 2026-10-11
+* <https://github.com/microsoft/recommenders> ⭐ 21,947 | 🐛 179 | 🌐 Python | 📅 2026-10-12
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,519 | 🐛 1 | 📅 2026-03-12
-* <https://github.com/wzhe06/Reco-papers> ⭐ 3,575 | 🐛 3 | 🌐 Python | 📅 2025-10-16
+* <https://github.com/wzhe06/Reco-papers> ⭐ 3,576 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,892 | 🐛 1 | 📅 2020-02-27
 * <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,616 | 🐛 0 | 🌐 Python | 📅 2026-09-19
 * <https://github.com/scnu-dil/awesome-RecSys> ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
