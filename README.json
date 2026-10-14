@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4584,
+                "stars": 4586,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -152,7 +152,7 @@
                 "open_issues": 73,
                 "owner": "maciejkula",
                 "repo": "spotlight",
-                "stars": 3047,
+                "stars": 3048,
                 "topics": [
                   "deep-learning",
                   "learning-to-rank",
@@ -181,7 +181,7 @@
                 "open_issues": 91,
                 "owner": "tensorflow",
                 "repo": "ranking",
-                "stars": 2770,
+                "stars": 2771,
                 "topics": [
                   "deep-learning",
                   "information-retrieval",
@@ -209,7 +209,7 @@
                 "open_issues": 111,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2449,
+                "stars": 2450,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -299,7 +299,7 @@
                 "open_issues": 8,
                 "owner": "linkedin",
                 "repo": "detext",
-                "stars": 1262,
+                "stars": 1263,
                 "topics": [
                   "classification",
                   "deep-neural-networks",
@@ -521,7 +521,7 @@
             "open_issues": 34,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1266,
+            "stars": 1267,
             "topics": [
               "atomic-files",
               "dataset",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T08:05:29Z",
-            "open_issues": 179,
+            "last_commit": "2026-10-14T04:49:43Z",
+            "open_issues": 180,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21947,
+            "stars": 21951,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -686,7 +686,7 @@
             "open_issues": 1,
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2892,
+            "stars": 2893,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:28:29.767Z",
+    "last_updated": "2026-10-14T06:43:01.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
