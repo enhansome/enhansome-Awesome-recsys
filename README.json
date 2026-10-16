@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4585,
+                "stars": 4586,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -124,7 +124,7 @@
                 "open_issues": 97,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3829,
+                "stars": 3831,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -209,7 +209,7 @@
                 "open_issues": 112,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2450,
+                "stars": 2452,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -521,7 +521,7 @@
             "open_issues": 34,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1267,
+            "stars": 1266,
             "topics": [
               "atomic-files",
               "dataset",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T04:49:43Z",
-            "open_issues": 180,
+            "last_commit": "2026-10-16T00:34:11Z",
+            "open_issues": 177,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21953,
+            "stars": 21954,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2617,
+            "stars": 2618,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T06:28:09.580Z",
+    "last_updated": "2026-10-16T06:24:33.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
