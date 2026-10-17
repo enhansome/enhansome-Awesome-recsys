@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5115,
+                "stars": 5116,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -206,7 +206,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T21:30:34Z",
-                "open_issues": 112,
+                "open_issues": 113,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2452,
@@ -270,7 +270,7 @@
                 "open_issues": 40,
                 "owner": "jfkirk",
                 "repo": "tensorrec",
-                "stars": 1300,
+                "stars": 1299,
                 "topics": [
                   "framework",
                   "machine-learning",
@@ -589,7 +589,7 @@
             "open_issues": 177,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21954,
+            "stars": 21955,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2618,
+            "stars": 2619,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:24:33.032Z",
+    "last_updated": "2026-10-17T06:13:51.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
