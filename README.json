@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4586,
+                "stars": 4587,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -206,7 +206,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T21:30:34Z",
-                "open_issues": 114,
+                "open_issues": 117,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2453,
@@ -244,7 +244,7 @@
                 "open_issues": 280,
                 "owner": "tensorflow",
                 "repo": "recommenders",
-                "stars": 2036,
+                "stars": 2037,
                 "topics": [
                   "recommender",
                   "recommender-system",
@@ -327,7 +327,7 @@
                 "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
-                "stars": 1057,
+                "stars": 1058,
                 "topics": [
                   "collaborative-filtering",
                   "matrix-factorization",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T09:47:37Z",
-            "open_issues": 175,
+            "last_commit": "2026-10-19T03:40:53Z",
+            "open_issues": 178,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21955,
+            "stars": 21956,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T06:36:46.099Z",
+    "last_updated": "2026-10-19T06:52:48.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
