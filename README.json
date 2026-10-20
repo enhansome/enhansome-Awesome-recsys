@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4587,
+                "stars": 4588,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -124,7 +124,7 @@
                 "open_issues": 97,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3831,
+                "stars": 3830,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -209,7 +209,7 @@
                 "open_issues": 117,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2453,
+                "stars": 2454,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -327,7 +327,7 @@
                 "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
-                "stars": 1058,
+                "stars": 1060,
                 "topics": [
                   "collaborative-filtering",
                   "matrix-factorization",
@@ -560,7 +560,7 @@
                 "open_issues": 11,
                 "owner": "RUCAIBox",
                 "repo": "UniSRec",
-                "stars": 227,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:22:19.466Z"
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T03:40:53Z",
-            "open_issues": 178,
+            "last_commit": "2026-10-19T14:12:34Z",
+            "open_issues": 176,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21956,
+            "stars": 21959,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3576,
+            "stars": 3577,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2619,
+            "stars": 2620,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:52:48.807Z",
+    "last_updated": "2026-10-20T06:38:24.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
