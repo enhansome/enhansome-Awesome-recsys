@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8050,
+                "stars": 8049,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4588,
+                "stars": 4589,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -206,7 +206,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T21:30:34Z",
-                "open_issues": 117,
+                "open_issues": 120,
                 "owner": "metarank",
                 "repo": "metarank",
                 "stars": 2454,
@@ -586,7 +586,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-19T14:12:34Z",
-            "open_issues": 176,
+            "open_issues": 177,
             "owner": "recommenders-team",
             "repo": "recommenders",
             "stars": 21959,
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6519,
+            "stars": 6520,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2620,
+            "stars": 2622,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T06:38:24.278Z",
+    "last_updated": "2026-10-21T06:35:38.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
