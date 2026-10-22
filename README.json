@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8049,
+                "stars": 8048,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5116,
+                "stars": 5114,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4589,
+                "stars": 4591,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -124,7 +124,7 @@
                 "open_issues": 97,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3830,
+                "stars": 3829,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -152,7 +152,7 @@
                 "open_issues": 73,
                 "owner": "maciejkula",
                 "repo": "spotlight",
-                "stars": 3048,
+                "stars": 3047,
                 "topics": [
                   "deep-learning",
                   "learning-to-rank",
@@ -244,7 +244,7 @@
                 "open_issues": 280,
                 "owner": "tensorflow",
                 "repo": "recommenders",
-                "stars": 2037,
+                "stars": 2038,
                 "topics": [
                   "recommender",
                   "recommender-system",
@@ -270,7 +270,7 @@
                 "open_issues": 40,
                 "owner": "jfkirk",
                 "repo": "tensorrec",
-                "stars": 1299,
+                "stars": 1298,
                 "topics": [
                   "framework",
                   "machine-learning",
@@ -585,8 +585,8 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T14:12:34Z",
-            "open_issues": 177,
+            "last_commit": "2026-10-21T19:01:46Z",
+            "open_issues": 176,
             "owner": "recommenders-team",
             "repo": "recommenders",
             "stars": 21959,
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:35:38.122Z",
+    "last_updated": "2026-10-22T06:35:45.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
