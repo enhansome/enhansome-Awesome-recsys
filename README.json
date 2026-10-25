@@ -91,7 +91,7 @@
                 "open_issues": 358,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4595,
+                "stars": 4596,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -124,7 +124,7 @@
                 "open_issues": 97,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3831,
+                "stars": 3832,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -209,7 +209,7 @@
                 "open_issues": 120,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2454,
+                "stars": 2455,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -589,7 +589,7 @@
             "open_issues": 177,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21960,
+            "stars": 21962,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:29:36.190Z",
+    "last_updated": "2026-10-25T06:54:17.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
