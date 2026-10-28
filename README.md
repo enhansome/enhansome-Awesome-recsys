@@ -276,9 +276,9 @@
 
 ### Implementations
 
-* <https://github.com/shenweichen/DeepCTR> ⭐ 8,049 | 🐛 62 | 🌐 Python | 📅 2026-10-11
-* <https://github.com/lyst/lightfm> ⭐ 5,117 | 🐛 166 | 🌐 Python | 📅 2024-07-24
-* <https://github.com/RUCAIBox/RecBole> ⭐ 4,599 | 🐛 358 | 🌐 Python | 📅 2025-02-24
+* <https://github.com/shenweichen/DeepCTR> ⭐ 8,048 | 🐛 62 | 🌐 Python | 📅 2026-10-11
+* <https://github.com/lyst/lightfm> ⭐ 5,118 | 🐛 166 | 🌐 Python | 📅 2024-07-24
+* <https://github.com/RUCAIBox/RecBole> ⭐ 4,601 | 🐛 359 | 🌐 Python | 📅 2025-02-24
 * <https://github.com/benfred/implicit> ⭐ 3,833 | 🐛 98 | 🌐 Python | 📅 2026-05-08
 * <https://github.com/maciejkula/spotlight> ⭐ 3,046 | 🐛 73 | 🌐 Python | 📅 2022-12-21
 * <https://github.com/tensorflow/ranking/> ⚠️ Archived
@@ -286,7 +286,7 @@
 * <https://github.com/tensorflow/recommenders> ⭐ 2,040 | 🐛 280 | 🌐 Python | 📅 2026-10-06 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
 * <https://github.com/jfkirk/tensorrec> ⭐ 1,298 | 🐛 40 | 🌐 Python | 📅 2023-05-22
 * <https://github.com/linkedin/detext> ⭐ 1,263 | 🐛 8 | 🌐 Python | 📅 2023-03-02
-* <https://github.com/PreferredAI/cornac/> ⭐ 1,062 | 🐛 25 | 🌐 Python | 📅 2026-09-14
+* <https://github.com/PreferredAI/cornac/> ⭐ 1,062 | 🐛 24 | 🌐 Python | 📅 2026-10-28
 * <https://github.com/etlundquist/rankfm> ⭐ 174 | 🐛 20 | 🌐 Python | 📅 2024-08-14
 * <https://github.com/ShopRunner/collie_recs/>
 
@@ -300,7 +300,7 @@
 
 ## Datasets
 
-* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,266 | 🐛 34 | 🌐 Python | 📅 2024-09-05
+* <https://github.com/RUCAIBox/RecSysDatasets> ⭐ 1,265 | 🐛 34 | 🌐 Python | 📅 2024-09-05
 * <https://www.kaggle.com/retailrocket/ecommerce-dataset>
 * <https://gist.github.com/entaroadun/1653794>
 * 30music / impresions / tv audience - <https://recsys.deib.polimi.it/datasets/>
@@ -520,11 +520,11 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,967 | 🐛 179 | 🌐 Python | 📅 2026-10-26
-* <https://github.com/hongleizhang/RSPapers> ⭐ 6,520 | 🐛 1 | 📅 2026-10-26
+* <https://github.com/microsoft/recommenders> ⭐ 21,968 | 🐛 181 | 🌐 Python | 📅 2026-10-26
+* <https://github.com/hongleizhang/RSPapers> ⭐ 6,519 | 🐛 1 | 📅 2026-10-26
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,578 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,893 | 🐛 1 | 📅 2020-02-27
-* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,624 | 🐛 0 | 🌐 Python | 📅 2026-09-19
+* <https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising> ⭐ 2,625 | 🐛 0 | 🌐 Python | 📅 2026-09-19
 * <https://github.com/scnu-dil/awesome-RecSys> ⭐ 284 | 🐛 0 | 🌐 TeX | 📅 2021-12-30
 * <https://paperswithcode.com/task/recommendation-systems?page=2>
 * [SIGIR (Special Interest Group on Information Retrieval)](https://sigir-ecom.github.io/)
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
