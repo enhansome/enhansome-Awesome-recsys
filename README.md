@@ -276,7 +276,7 @@
 
 ### Implementations
 
-* <https://github.com/shenweichen/DeepCTR> ⭐ 8,048 | 🐛 62 | 🌐 Python | 📅 2026-10-11
+* <https://github.com/shenweichen/DeepCTR> ⭐ 8,047 | 🐛 62 | 🌐 Python | 📅 2026-10-11
 * <https://github.com/lyst/lightfm> ⭐ 5,118 | 🐛 166 | 🌐 Python | 📅 2024-07-24
 * <https://github.com/RUCAIBox/RecBole> ⭐ 4,601 | 🐛 359 | 🌐 Python | 📅 2025-02-24
 * <https://github.com/benfred/implicit> ⭐ 3,833 | 🐛 98 | 🌐 Python | 📅 2026-05-08
@@ -520,7 +520,7 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ## Other Awesone list
 
-* <https://github.com/microsoft/recommenders> ⭐ 21,968 | 🐛 181 | 🌐 Python | 📅 2026-10-26
+* <https://github.com/microsoft/recommenders> ⭐ 21,970 | 🐛 181 | 🌐 Python | 📅 2026-10-26
 * <https://github.com/hongleizhang/RSPapers> ⭐ 6,519 | 🐛 1 | 📅 2026-10-26
 * <https://github.com/wzhe06/Reco-papers> ⭐ 3,578 | 🐛 3 | 🌐 Python | 📅 2025-10-16
 * <https://github.com/robi56/Deep-Learning-for-Recommendation-Systems> ⭐ 2,893 | 🐛 1 | 📅 2020-02-27
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

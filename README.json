@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8048,
+                "stars": 8047,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -589,7 +589,7 @@
             "open_issues": 181,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21968,
+            "stars": 21970,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:28:02.694Z",
+    "last_updated": "2026-10-29T07:40:21.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
