@@ -209,7 +209,7 @@
                 "open_issues": 121,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2456,
+                "stars": 2455,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -299,7 +299,7 @@
                 "open_issues": 8,
                 "owner": "linkedin",
                 "repo": "detext",
-                "stars": 1263,
+                "stars": 1264,
                 "topics": [
                   "classification",
                   "deep-neural-networks",
@@ -323,8 +323,8 @@
                 "id": 141242285,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T02:32:33Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-30T05:19:22Z",
+                "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
                 "stars": 1062,
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:26:54Z",
-            "open_issues": 181,
+            "last_commit": "2026-10-30T03:15:48Z",
+            "open_issues": 179,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21970,
+            "stars": 21971,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2625,
+            "stars": 2626,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:40:21.515Z",
+    "last_updated": "2026-10-30T07:43:47.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
