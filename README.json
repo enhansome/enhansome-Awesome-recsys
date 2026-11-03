@@ -124,7 +124,7 @@
                 "open_issues": 98,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3834,
+                "stars": 3835,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -209,7 +209,7 @@
                 "open_issues": 121,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2455,
+                "stars": 2456,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -521,7 +521,7 @@
             "open_issues": 34,
             "owner": "RUCAIBox",
             "repo": "RecSysDatasets",
-            "stars": 1265,
+            "stars": 1266,
             "topics": [
               "atomic-files",
               "dataset",
@@ -585,11 +585,11 @@
             "id": 149430917,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T01:43:14Z",
-            "open_issues": 185,
+            "last_commit": "2026-11-02T13:50:58Z",
+            "open_issues": 184,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21974,
+            "stars": 21975,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T08:19:21.895Z",
+    "last_updated": "2026-11-03T08:35:54.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
