@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5120,
+                "stars": 5121,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -91,7 +91,7 @@
                 "open_issues": 360,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4613,
+                "stars": 4612,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -124,7 +124,7 @@
                 "open_issues": 99,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3838,
+                "stars": 3839,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -586,10 +586,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T17:58:11Z",
-            "open_issues": 186,
+            "open_issues": 188,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21981,
+            "stars": 21982,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3578,
+            "stars": 3577,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -714,7 +714,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-19T09:43:00Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
             "stars": 2631,
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:48:07.949Z",
+    "last_updated": "2026-11-08T07:59:09.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
