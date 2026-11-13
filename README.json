@@ -124,7 +124,7 @@
                 "open_issues": 100,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3841,
+                "stars": 3842,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -209,7 +209,7 @@
                 "open_issues": 122,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2460,
+                "stars": 2461,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -324,7 +324,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-12T08:43:38Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "PreferredAI",
                 "repo": "cornac",
                 "stars": 1065,
@@ -586,10 +586,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T17:58:11Z",
-            "open_issues": 191,
+            "open_issues": 192,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21990,
+            "stars": 21991,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -686,7 +686,7 @@
             "open_issues": 1,
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2894,
+            "stars": 2895,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -717,7 +717,7 @@
             "open_issues": 1,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2634,
+            "stars": 2635,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:51:08.163Z",
+    "last_updated": "2026-11-13T08:46:50.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
