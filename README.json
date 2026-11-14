@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4618,
+                "stars": 4619,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -121,10 +121,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-08T19:01:37Z",
-                "open_issues": 100,
+                "open_issues": 102,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3842,
+                "stars": 3843,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -209,7 +209,7 @@
                 "open_issues": 122,
                 "owner": "metarank",
                 "repo": "metarank",
-                "stars": 2461,
+                "stars": 2462,
                 "topics": [
                   "automl",
                   "data-engineering",
@@ -323,8 +323,8 @@
                 "id": 141242285,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T08:43:38Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-13T18:02:18Z",
+                "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
                 "stars": 1065,
@@ -586,10 +586,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T17:58:11Z",
-            "open_issues": 192,
+            "open_issues": 193,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21991,
+            "stars": 21992,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6519,
+            "stars": 6518,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -713,7 +713,7 @@
             "id": 293218224,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-19T09:43:00Z",
+            "last_commit": "2026-11-13T13:37:52Z",
             "open_issues": 1,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:46:50.070Z",
+    "last_updated": "2026-11-14T08:02:01.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
