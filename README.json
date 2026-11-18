@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "shenweichen",
                 "repo": "DeepCTR",
-                "stars": 8051,
+                "stars": 8050,
                 "topics": [
                   "autoint",
                   "click-through-rate",
@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5120,
+                "stars": 5121,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -124,7 +124,7 @@
                 "open_issues": 102,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3843,
+                "stars": 3844,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -323,8 +323,8 @@
                 "id": 141242285,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T18:02:18Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-18T03:49:08Z",
+                "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
                 "stars": 1065,
@@ -589,7 +589,7 @@
             "open_issues": 236,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 22000,
+            "stars": 22002,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6518,
+            "stars": 6517,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:44:20.137Z",
+    "last_updated": "2026-11-18T09:10:53.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
