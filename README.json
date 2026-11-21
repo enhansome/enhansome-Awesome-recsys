@@ -91,7 +91,7 @@
                 "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4621,
+                "stars": 4620,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -152,7 +152,7 @@
                 "open_issues": 73,
                 "owner": "maciejkula",
                 "repo": "spotlight",
-                "stars": 3043,
+                "stars": 3042,
                 "topics": [
                   "deep-learning",
                   "learning-to-rank",
@@ -324,7 +324,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T03:39:44Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "PreferredAI",
                 "repo": "cornac",
                 "stars": 1065,
@@ -589,7 +589,7 @@
             "open_issues": 237,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 22007,
+            "stars": 22009,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -628,7 +628,7 @@
             "open_issues": 1,
             "owner": "hongleizhang",
             "repo": "RSPapers",
-            "stars": 6515,
+            "stars": 6514,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -717,7 +717,7 @@
             "open_issues": 1,
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2635,
+            "stars": 2636,
             "topics": [
               "advertising",
               "ctr",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:11:33.501Z",
+    "last_updated": "2026-11-21T08:46:18.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
