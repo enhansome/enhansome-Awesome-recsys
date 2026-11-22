@@ -286,7 +286,7 @@
 * <https://github.com/tensorflow/recommenders> ⭐ 2,040 | 🐛 280 | 🌐 Python | 📅 2026-11-11 [quick start](https://www.tensorflow.org/recommenders/examples/quickstart)
 * <https://github.com/jfkirk/tensorrec> ⭐ 1,297 | 🐛 40 | 🌐 Python | 📅 2023-05-22
 * <https://github.com/linkedin/detext> ⭐ 1,263 | 🐛 8 | 🌐 Python | 📅 2023-03-02
-* <https://github.com/PreferredAI/cornac/> ⭐ 1,065 | 🐛 23 | 🌐 Python | 📅 2026-11-19
+* <https://github.com/PreferredAI/cornac/> ⭐ 1,065 | 🐛 25 | 🌐 Python | 📅 2026-11-19
 * <https://github.com/etlundquist/rankfm> ⭐ 174 | 🐛 20 | 🌐 Python | 📅 2024-08-14
 * <https://github.com/ShopRunner/collie_recs/>
 
@@ -536,4 +536,4 @@ RecSys 2020 (<https://slideslive.com/acmrecsys>)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
