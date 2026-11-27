@@ -63,7 +63,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5119,
+                "stars": 5120,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -88,10 +88,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-23T12:51:41Z",
-                "open_issues": 358,
+                "open_issues": 359,
                 "owner": "RUCAIBox",
                 "repo": "RecBole",
-                "stars": 4626,
+                "stars": 4627,
                 "topics": [
                   "collaborative-filtering",
                   "ctr-prediction",
@@ -124,7 +124,7 @@
                 "open_issues": 103,
                 "owner": "benfred",
                 "repo": "implicit",
-                "stars": 3842,
+                "stars": 3841,
                 "topics": [
                   "collaborative-filtering",
                   "machine-learning",
@@ -241,7 +241,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-11T17:16:00Z",
-                "open_issues": 280,
+                "open_issues": 281,
                 "owner": "tensorflow",
                 "repo": "recommenders",
                 "stars": 2040,
@@ -586,10 +586,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T17:58:11Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 22013,
+            "stars": 22012,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -658,7 +658,7 @@
             "open_issues": 3,
             "owner": "wzhe06",
             "repo": "Reco-papers",
-            "stars": 3576,
+            "stars": 3577,
             "topics": [
               "deep-learning",
               "exploration-exploitation",
@@ -686,7 +686,7 @@
             "open_issues": 1,
             "owner": "robi56",
             "repo": "Deep-Learning-for-Recommendation-Systems",
-            "stars": 2893,
+            "stars": 2892,
             "topics": [
               "collaborative-filtering",
               "deep-learning",
@@ -757,7 +757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:03:19.218Z",
+    "last_updated": "2026-11-27T10:08:32.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of recommnedation system topics",
